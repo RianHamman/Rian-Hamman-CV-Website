@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <div class="image-Headshot">
-            <img src="Images/Rian Hamman.jpg" class="pull-right img-thumbnail img-fluid">
+            <img src="Images/HomePage/Rian Hamman.jpg" class="pull-right img-thumbnail img-fluid">
         </div>
         <h1>Rian Hamman</h1>
         

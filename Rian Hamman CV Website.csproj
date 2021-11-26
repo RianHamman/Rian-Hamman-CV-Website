@@ -157,7 +157,8 @@
     <Content Include="css\bootstrap.min.css.map" />
     <Content Include="css\bootstrap.rtl.css.map" />
     <Content Include="css\bootstrap.rtl.min.css.map" />
-    <Content Include="Images\Rian Hamman.jpg" />
+    <Content Include="Images\HomePage\Rian Hamman.jpg" />
+    <Content Include="Images\HomePage\White Background.jpg" />
     <Content Include="js\bootstrap.bundle.js.map" />
     <Content Include="js\bootstrap.bundle.min.js.map" />
     <Content Include="js\bootstrap.esm.js.map" />
