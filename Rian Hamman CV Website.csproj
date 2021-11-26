@@ -105,6 +105,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Experience.aspx" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -156,6 +157,7 @@
     <Content Include="css\bootstrap.min.css.map" />
     <Content Include="css\bootstrap.rtl.css.map" />
     <Content Include="css\bootstrap.rtl.min.css.map" />
+    <Content Include="Images\Rian Hamman.jpg" />
     <Content Include="js\bootstrap.bundle.js.map" />
     <Content Include="js\bootstrap.bundle.min.js.map" />
     <Content Include="js\bootstrap.esm.js.map" />
@@ -204,6 +206,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Experience.aspx.cs">
+      <DependentUpon>Experience.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Experience.aspx.designer.cs">
+      <DependentUpon>Experience.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>

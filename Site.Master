@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - My ASP.NET Application</title>
+    <title><%: Page.Title %> - Rian Hamman Online CV</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -45,14 +45,16 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="/Home">Rian Hamman Online CV</a>
+                    <a class="navbar-brand" runat="server" href="~/Home">Rian Hamman Online CV</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/Home">Home</a></li>
                         <li><a runat="server" href="~/About">About Me</a></li>
                         <li><a runat="server" href="~/Contact">Contact Me</a></li>
+                        <li><a runat="server" href="~/Experience">Experience</a></li>
                     </ul>
                 </div>
             </div>
