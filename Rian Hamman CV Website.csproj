@@ -105,7 +105,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Experience.aspx" />
+    <Content Include="Social Media.aspx" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -207,12 +207,12 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Experience.aspx.cs">
-      <DependentUpon>Experience.aspx</DependentUpon>
+    <Compile Include="Social Media.aspx.cs">
+      <DependentUpon>Social Media.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Experience.aspx.designer.cs">
-      <DependentUpon>Experience.aspx</DependentUpon>
+    <Compile Include="Social Media.aspx.designer.cs">
+      <DependentUpon>Social Media.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">

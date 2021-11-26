@@ -54,7 +54,7 @@
                         <li><a runat="server" href="~/Home">Home</a></li>
                         <li><a runat="server" href="~/About">About Me</a></li>
                         <li><a runat="server" href="~/Contact">Contact Me</a></li>
-                        <li><a runat="server" href="~/Experience">Experience</a></li>
+                        <li><a runat="server" href="~/Social Media">Social Media</a></li>
                     </ul>
                 </div>
             </div>
