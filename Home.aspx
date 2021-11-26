@@ -21,11 +21,12 @@
         <div class="col-md-4">
             <h2>Key Skills</h2>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item">Skill 1</li>
-              <li class="list-group-item">Skill 2</li>
-              <li class="list-group-item">Skill 3</li>
-              <li class="list-group-item">Skill 4</li>
-              <li class="list-group-item">Skill 5</li>
+              <li class="list-group-item">Programming - Java, C# ASP.Net Framework.</li>
+              <li class="list-group-item">Project Management -Scrum & Kaban.</li>
+              <li class="list-group-item">Data Analysis - Microsoft Azure.</li>
+              <li class="list-group-item">Video and Photo editing - Lightroom & Premiere Pro cc.</li>
+              <li class="list-group-item">Design - Google Sketch up</li>
+              <li class="list-group-item">Marketing - Web development, Content creatiion & SEO.</li>
             </ul>
             <p>
                 <a class="btn btn-default" href="/About">More Skills &raquo;</a>
