@@ -7,6 +7,8 @@
         <p class="lead">A few ways to reach me.</p>
     </div>
     
+
+
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
     <address>
