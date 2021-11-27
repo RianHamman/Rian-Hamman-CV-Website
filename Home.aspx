@@ -19,7 +19,7 @@
                 I am 23 years old, I am a final year BSC IT Student at the NorthWest University at the Potchefstroom campus. My passion is computer science and web development, along with social media branding and marketing. I take pride in the work I have done, including building this online CV from scratch. I am a hardworking person that enjoys every ounce of work that I am passionate about, I am a quick learner in the field to ensure that I am on top of the current developments in my field. I am looking for an opportunity to enhance my skills and provide a professional service.
             </p>
             <p>
-                <a class="btn btn-default" href="/Home">Learn more about me &raquo;</a>
+                <a class="btn btn-default" href="/Bio">Learn more about me &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
