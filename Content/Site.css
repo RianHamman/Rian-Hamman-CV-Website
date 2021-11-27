@@ -20,7 +20,7 @@ textarea {
 
 
 /* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 300px) {
     .jumbotron {
         margin-top: 20px;
         background-image: url('../Images/HomePage/White Background.jpg');
@@ -52,7 +52,7 @@ textarea {
     }
 
     .bio-container {
-        padding: 20px;
+        padding-left: 20px;
         min-height: 200px;
         box-shadow: 0 .5rem 1rem rgb(128, 128, 128);
     }
@@ -69,5 +69,13 @@ textarea {
         margin-left: auto;
         margin-right: 20px;
         margin-bottom: 20px;
+    }
+
+    .panel-group {
+        /*padding-left: 20px;*/
+        /*padding-right: 20px;*/
+        /*max-width: 95%;*/
+        margin-right: 40px;
+        margin-left: 20px;
     }
 }
