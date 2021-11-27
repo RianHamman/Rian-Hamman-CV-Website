@@ -44,4 +44,10 @@ textarea {
         min-height: 800px;
         box-shadow: 0 .5rem 1rem rgb(128, 128, 128);
     }
+
+    .home-page-content {
+        min-height: 500px;
+        padding: 20px;
+        box-shadow: 0 .5rem 1rem rgb(128, 128, 128);
+    }
 }

@@ -12,7 +12,7 @@
         <p><a href="/about" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
-    <div class="row">
+    <div class="home-page-content">
         <div class="col-md-4">
             <h2>Get to know me</h2>
             <p>
