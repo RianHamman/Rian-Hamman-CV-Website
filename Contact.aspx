@@ -7,19 +7,25 @@
         <p class="lead">A few ways to reach me.</p>
     </div>
     
+    <div class="contact-me-container">
+        <div class="Header">
+            <div class="QRCode">
+                <img src="Images/Contact/RianHammanQR.png" class="pull-right img-thumbnail img-fluid" alt="Scannable Contact QR code">
+            </div>
 
-
-    <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
-    <address>
-        Address Line 1<br />
-        Address Line 1<br />
-        <abbr title="Phone">P:</abbr>
-        000 000 0000
-    </address>
-
-    <address>
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-    </address>
+            <h3>How to reach me:</h3>
+            <br />
+            <h4>Rian Hamman</h4>
+            <p>
+                Email: rian.ham98@gmail.com<br />
+                Alt Email: rian@adasolar.co.za<br />
+                Phone: +27 63 684 3187<br />
+                Website: <a href="www.RianHamman.co.za">RianHamman.co.za</a><br />
+                Instagram: <a href="https://www.instagram.com/rianhamman_media/">@RianHamman_Media</a><br />
+                Facebook: <a href="https://www.facebook.com/rian.hamman.5/">Rian Hamman - Facebook</a><br />
+                GitHub: <a href="https://github.com/RianHamman">My Github Repos.</a><br />
+                Udemy: <a href="https://www.udemy.com/user/rian-hamman/">Click here for more.</a><br />
+            </p>
+        </div>
+    </div>
 </asp:Content>

@@ -62,4 +62,12 @@ textarea {
         min-height: 200px;
         box-shadow: 0 .5rem 1rem rgb(128, 128, 128);
     }
+
+    .QRCode {
+        height: auto;
+        width: 250px;
+        margin-left: auto;
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
 }
