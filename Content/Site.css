@@ -50,4 +50,10 @@ textarea {
         padding: 20px;
         box-shadow: 0 .5rem 1rem rgb(128, 128, 128);
     }
+
+    .bio-container {
+        padding: 20px;
+        min-height: 200px;
+        box-shadow: 0 .5rem 1rem rgb(128, 128, 128);
+    }
 }

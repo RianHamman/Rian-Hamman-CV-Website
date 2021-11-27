@@ -9,7 +9,7 @@
         <h1>Rian Hamman</h1>
         
         <p class="lead">Welcome to my online Web CV.</p>
-        <p><a href="/about" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <p><a href="/bio" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
     <div class="home-page-content">
