@@ -9,7 +9,7 @@
         <h1>Rian Hamman</h1>
         
         <p class="lead">Welcome to my online Web CV.</p>
-        <p><a href="/bio" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <p><a href="/Doc/Rian Hamman CV.pdf" class="btn btn-primary btn-lg">PDF Download &raquo;</a></p>
     </div>
 
     <div class="home-page-content">
@@ -37,14 +37,13 @@
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Previous work</h2>
+            <h2>Contact Me</h2>
             <p>
-                List of prior work experience. <br />
-                -Add Git repo<br />
-                -Add Social Media<br />
+                Scan QR Code 
             </p>
+            <img src="Images/Contact/RianHammanQR.png" class="img-thumbnail img-fluid">
             <p>
-                <a class="btn btn-default" href="/Contact">More About Work Experience &raquo;</a>
+                <a class="btn btn-default" href="/Contact">Contact Me &raquo;</a>
             </p>
         </div>
     </div>
